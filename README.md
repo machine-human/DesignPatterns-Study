@@ -7,3 +7,4 @@
 
 # Pattern List
 - [Strategy Pattern](https://github.com/machine-human/DesignPatterns-Study/tree/master/HeadFirstDesignPatterns/src/strategy)
+- [Observer Pattern](https://github.com/machine-human/DesignPatterns-Study/tree/master/HeadFirstDesignPatterns/src/observer)
